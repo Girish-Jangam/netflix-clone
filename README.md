@@ -14,7 +14,7 @@
 
 ## How to use
 
-- To use this application, simply go to the following link: https://netflix-70e83.web.app/.
+- To use this application, simply go to the following link: https://netflix-70e83.web.app
 
 ## Installation
 
